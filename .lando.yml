@@ -1,0 +1,4 @@
+name: art-shop-drupal-8
+recipe: drupal8
+config:
+  webroot: .
